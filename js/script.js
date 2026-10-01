@@ -51,4 +51,6 @@ return lista[posicao];
 function jogaNovamente(){
     atual = 0;
     historiaFinal = "";
-    mostraPergunta();
+mostraPergunta();
+}
+mostraPergunta();
